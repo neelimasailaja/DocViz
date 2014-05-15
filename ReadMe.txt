@@ -1,0 +1,1 @@
+DocViz is a document visualization application that inputs large sets of documents and helps the user understand the prevalent themes and topics through a number of machine learning and data visualization techniques.
